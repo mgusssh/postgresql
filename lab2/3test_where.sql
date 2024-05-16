@@ -1,0 +1,1 @@
+select id, name, price from tools where tools.price > 1000

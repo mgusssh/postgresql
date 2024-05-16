@@ -1,0 +1,1 @@
+select * from users where last_name like '%ул%'

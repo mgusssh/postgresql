@@ -1,0 +1,1 @@
+select name, price from tools where price between 100 and 600

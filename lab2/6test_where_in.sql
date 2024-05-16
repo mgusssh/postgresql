@@ -1,0 +1,1 @@
+select * from users where first_name in ('Мария', 'Сергей')
